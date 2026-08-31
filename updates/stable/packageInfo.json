@@ -1,6 +1,6 @@
 {
     "channel": "stable",
-    "generated_at": "2026-08-26T21:52:44.405764Z",
+    "generated_at": "2026-08-31T21:01:58.977929Z",
     "key_id": "linkiir-release-20260826-e805e213fd59",
     "latest": "1.0.0",
     "product_min_supported": "1.0.0",
@@ -16,11 +16,11 @@
                     "artifact_id": "windows-x64-installer",
                     "filename": "LinkiirSetup-1.0.0-x64.exe",
                     "install_method": "installer",
-                    "min_free_bytes": 780739446,
+                    "min_free_bytes": 780752127,
                     "os": "windows",
                     "queue_variant": "any",
-                    "sha256": "8f7d714dc12b41fe96b1063d05ff7a4ed14ab1d1f48f876bf0b3adb56ff51fbb",
-                    "size_bytes": 260246482,
+                    "sha256": "2f7cf191e07edbfc0609f343015658fbb363df60b82c4dffb3e42a583781d36f",
+                    "size_bytes": 260250709,
                     "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/LinkiirSetup-1.0.0-x64.exe"
                 },
                 {
@@ -120,7 +120,7 @@
                     "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/linkiir-1.0.0-linux-docker-kafka-arm64.tar.gz"
                 }
             ],
-            "commit": "12dcff919ecb81b2e17a015b9b8268593582c530",
+            "commit": "d98e5b2a44b63dea9db349cca9454f183935f007",
             "mandatory": false,
             "package_format_version": 1,
             "release_notes_url": "https://help.linkiir.com/docs/release-notes/linkiir-grid-v1.0.0",
