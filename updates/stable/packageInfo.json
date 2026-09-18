@@ -1,10 +1,37 @@
 {
     "channel": "stable",
-    "generated_at": "2026-09-18T14:34:34.631925Z",
+    "generated_at": "2026-09-18T17:50:06.811852Z",
     "key_id": "linkiir-release-20260826-e805e213fd59",
-    "latest": "1.0.0",
+    "latest": "1.1.0",
     "product_min_supported": "1.0.0",
     "releases": [
+        {
+            "artifacts": [
+                {
+                    "apply": {
+                        "args": [],
+                        "strategy": "installer"
+                    },
+                    "arch": "x64",
+                    "artifact_id": "windows-x64-installer",
+                    "filename": "LinkiirSetup-1.1.0-x64.exe",
+                    "install_method": "installer",
+                    "min_free_bytes": 780752127,
+                    "os": "windows",
+                    "queue_variant": "any",
+                    "sha256": "2f7cf191e07edbfc0609f343015658fbb363df60b82c4dffb3e42a583781d36f",
+                    "size_bytes": 260250709,
+                    "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/LinkiirSetup-1.0.0-x64.exe"
+                }
+            ],
+            "commit": "cbcbadd854ca554beec14965d49078123ba09bab",
+            "mandatory": false,
+            "package_format_version": 1,
+            "release_notes_url": "https://help.linkiir.com/docs/release-notes/linkiir-grid-v1.1.0",
+            "released_at": "2026-09-18T12:00:00Z",
+            "summary": "Release 1.1.0.",
+            "version": "1.1.0"
+        },
         {
             "artifacts": [
                 {
