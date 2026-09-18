@@ -1,6 +1,6 @@
 {
     "channel": "stable",
-    "generated_at": "2026-09-18T19:58:26.279118Z",
+    "generated_at": "2026-09-18T20:10:52.881004Z",
     "key_id": "linkiir-release-20260826-e805e213fd59",
     "latest": "1.1.0",
     "product_min_supported": "1.0.0",
@@ -14,6 +14,9 @@
                     },
                     "arch": "x64",
                     "artifact_id": "windows-x64-installer",
+                    "code_signing": {
+                        "subject": "CN=Linkiir Inc., O=Linkiir Inc., L=Whitby, S=Ontario, C=CA"
+                    },
                     "filename": "LinkiirSetup-1.1.0-x64.exe",
                     "install_method": "installer",
                     "min_free_bytes": 786009624,
