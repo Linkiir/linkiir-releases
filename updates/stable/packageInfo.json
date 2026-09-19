@@ -1,6 +1,6 @@
 {
     "channel": "stable",
-    "generated_at": "2026-09-18T20:10:52.881004Z",
+    "generated_at": "2026-09-19T01:46:37.130893Z",
     "key_id": "linkiir-release-20260826-e805e213fd59",
     "latest": "1.1.0",
     "product_min_supported": "1.0.0",
@@ -19,11 +19,11 @@
                     },
                     "filename": "LinkiirSetup-1.1.0-x64.exe",
                     "install_method": "installer",
-                    "min_free_bytes": 786009624,
+                    "min_free_bytes": 786062832,
                     "os": "windows",
                     "queue_variant": "any",
-                    "sha256": "527ae869f64d09439d18ff756c18d3d2e3b2f5d8f8d313975c79b3701c4a2cda",
-                    "size_bytes": 262003208,
+                    "sha256": "6b82ad3d072034148cbfa404c0c0b9795ccbae1b0dbe0a3592ddd373d3097bbf",
+                    "size_bytes": 262020944,
                     "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/LinkiirSetup-1.1.0-x64.exe"
                 }
             ],
