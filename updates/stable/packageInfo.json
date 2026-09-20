@@ -1,6 +1,6 @@
 {
     "channel": "stable",
-    "generated_at": "2026-09-19T20:08:26.531656Z",
+    "generated_at": "2026-09-20T01:18:38.217010Z",
     "key_id": "linkiir-release-20260826-e805e213fd59",
     "latest": "1.1.0",
     "product_min_supported": "1.0.0",
@@ -35,11 +35,11 @@
                     "artifact_id": "linux-x64-kafka",
                     "filename": "linkiir-1.1.0-linux-x64-kafka.tar.gz",
                     "install_method": "tarball",
-                    "min_free_bytes": 795870297,
+                    "min_free_bytes": 795897450,
                     "os": "linux",
                     "queue_variant": "kafka",
-                    "sha256": "dae0d44b8998abfc06158553c0c55f8f40cdeee79f1918950ec6ed0f4de06fb6",
-                    "size_bytes": 265290099,
+                    "sha256": "8eba92b4456d86b230951a26d46e958dd33664ec7d3400f508b09cc6a7f51634",
+                    "size_bytes": 265299150,
                     "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/linkiir-1.1.0-linux-x64-kafka.tar.gz"
                 }
             ],
