@@ -1,6 +1,6 @@
 {
     "channel": "stable",
-    "generated_at": "2026-09-20T01:18:38.217010Z",
+    "generated_at": "2026-09-21T19:10:09.441834Z",
     "key_id": "linkiir-release-20260826-e805e213fd59",
     "latest": "1.1.0",
     "product_min_supported": "1.0.0",
@@ -19,11 +19,11 @@
                     },
                     "filename": "LinkiirSetup-1.1.0-x64.exe",
                     "install_method": "installer",
-                    "min_free_bytes": 786062832,
+                    "min_free_bytes": 796179168,
                     "os": "windows",
                     "queue_variant": "any",
-                    "sha256": "6b82ad3d072034148cbfa404c0c0b9795ccbae1b0dbe0a3592ddd373d3097bbf",
-                    "size_bytes": 262020944,
+                    "sha256": "0f54965b29d194100980c66109a315b7b3f6f4590e855104bda3219857a919d5",
+                    "size_bytes": 265393056,
                     "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/LinkiirSetup-1.1.0-x64.exe"
                 },
                 {
@@ -35,11 +35,11 @@
                     "artifact_id": "linux-x64-kafka",
                     "filename": "linkiir-1.1.0-linux-x64-kafka.tar.gz",
                     "install_method": "tarball",
-                    "min_free_bytes": 795897450,
+                    "min_free_bytes": 795938766,
                     "os": "linux",
                     "queue_variant": "kafka",
-                    "sha256": "8eba92b4456d86b230951a26d46e958dd33664ec7d3400f508b09cc6a7f51634",
-                    "size_bytes": 265299150,
+                    "sha256": "cbf6435aecee93b13f08e2399e9366be937c17a50b9be14ae34bc03a3df71d3c",
+                    "size_bytes": 265312922,
                     "url": "https://github.com/Linkiir/linkiir-releases/releases/download/v1.0.0/linkiir-1.1.0-linux-x64-kafka.tar.gz"
                 }
             ],
