@@ -1,0 +1,96 @@
+{
+    "format": "linkiir.catalog-directory",
+    "format_version": 1,
+    "generated_at": "2026-10-26T00:00:00Z",
+    "key_id": "linkiir-release-20260826-e805e213fd59",
+    "catalogs": [
+        {
+            "id": "lkfhir",
+            "name": "Linkiir FHIR Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Adapters Linkiir Grid speaks over FHIR: FHIR-native EHR and EMR APIs, and FHIR authoring tools.",
+            "url": "https://github.com/Linkiir/linkiir-fhir-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "healthcare",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/fhir/"
+        },
+        {
+            "id": "lkehr",
+            "name": "Linkiir EHR Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Adapters for EHR, EMR and practice-management systems reached over a proprietary API rather than FHIR.",
+            "url": "https://github.com/Linkiir/linkiir-ehr-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "healthcare",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/ehr/"
+        },
+        {
+            "id": "lkdx",
+            "name": "Linkiir Diagnostics Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Adapters for results and signals arriving from an instrument: laboratories, imaging, and bedside or wearable devices.",
+            "url": "https://github.com/Linkiir/linkiir-diagnostics-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "healthcare",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/diagnostics/"
+        },
+        {
+            "id": "lkbz",
+            "name": "Linkiir Business Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Enterprise business system adapters: CRM, ERP, ITSM, HR, identity and directory services, and scheduling.",
+            "url": "https://github.com/Linkiir/linkiir-business-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "business",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/business/"
+        },
+        {
+            "id": "lkflow",
+            "name": "Linkiir Transport Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Adapters for moving bytes and messages: object storage, file transport, and streaming or message brokers.",
+            "url": "https://github.com/Linkiir/linkiir-transport-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "infrastructure",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/transport/"
+        },
+        {
+            "id": "lknotif",
+            "name": "Linkiir Notification Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Adapters that put a message in front of a person: chat, SMS, voice, email, paging and webhooks.",
+            "url": "https://github.com/Linkiir/linkiir-notification-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "infrastructure",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/notification/"
+        },
+        {
+            "id": "lkai",
+            "name": "Linkiir AI Adapters",
+            "publisher": "Linkiir Inc",
+            "description": "Model and AI service adapters: hosted and on-premise LLMs, embeddings, and AI tooling.",
+            "url": "https://github.com/Linkiir/linkiir-ai-adapters",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "ai",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/ai/"
+        },
+        {
+            "id": "lktool",
+            "name": "Linkiir Developer Tools",
+            "publisher": "Linkiir Inc",
+            "description": "Tools for building and testing interfaces, such as a Data Simulator that emits synthetic HL7 v2, C-CDA, FHIR and X12 messages.",
+            "url": "https://github.com/Linkiir/linkiir-devtools",
+            "ref": "main",
+            "min_grid_version": "",
+            "category": "tools",
+            "docs_url": "https://help.linkiir.com/docs/adapters/catalogs/devtools/"
+        }
+    ]
+}
